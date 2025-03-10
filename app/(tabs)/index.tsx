@@ -33,7 +33,6 @@ export default function HomeScreen() {
         <CustomButton
           title="Take a Trade"
           onPress={() => console.log("Take a Trade")}
-          style={styles.button}
         />
       </Link>
 
@@ -41,7 +40,6 @@ export default function HomeScreen() {
         <CustomButton
           title="Manage a Trade"
           onPress={() => console.log("Manage a Trade")}
-          style={styles.button}
         />
       </Link>
 
@@ -49,7 +47,6 @@ export default function HomeScreen() {
         <CustomButton
           title="Exit a Trade"
           onPress={() => console.log("Exit a Trade")}
-          style={styles.button}
         />
       </Link>
     </ParallaxScrollView>
@@ -76,14 +73,5 @@ const styles = StyleSheet.create({
     left: 0,
     position: "absolute",
   },
-  button: {
-    width: 150,
-    height: 150,
-    margin: 20,
-    marginLeft: 100,
-    justifyContent: "center",
-    alignItems: "center",
-    borderRadius: 10,
-    backgroundColor: "#088948", // oringal "#6200ee",
-  },
+
 });

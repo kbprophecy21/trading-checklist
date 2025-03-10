@@ -19,11 +19,14 @@ export const CustomButton: React.FC<CustomButtonProps> = ({ title, onPress, styl
 
 const styles = StyleSheet.create({
   button: {
+    width: 150,
+    height: 150,
+    margin: 20,
+    marginLeft: 100,
     justifyContent: "center",
     alignItems: "center",
     borderRadius: 10,
-    backgroundColor: '#088948',//"#6200ee",
-    padding: 10,
+    backgroundColor: "#6200ee", // oringal "#6200ee",
   },
   buttonText: {
     color: "#fff",
