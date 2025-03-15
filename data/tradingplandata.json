@@ -1,0 +1,165 @@
+{
+
+    "weeklyAnalysis" : {
+
+        "fundamentalAnalysis" : [
+
+            {"task_1": " "},
+
+            {"task_2": " "},
+
+            {"task_3": " "},
+
+            {"task_4": " "},
+
+            {"task_5": " "}
+        ],
+
+        "technicalAnalysis": [
+            
+            {"task_1": " "},
+
+            {"task_2": " "},
+
+            {"task_3": " "},
+
+            {"task_4": " "},
+
+            {"task_5": " "},
+
+            {"task_6": " "},
+
+            {"task_7": " "},
+
+            {"task_8": " "},
+
+            {"task_9": " "},
+
+            {"task_10": " "}
+        ]
+
+    },
+    "dailyAnalysis": {
+
+        "fundamentalAnalysis" : [
+
+            {"task_1": " "},
+
+            {"task_2": " "},
+
+            {"task_3": " "},
+
+            {"task_4": " "},
+
+            {"task_5": " "}
+        ],
+
+        "technicalAnalysis": [
+
+            {"task_1": " "},
+
+            {"task_2": " "},
+
+            {"task_3": " "},
+
+            {"task_4": " "},
+
+            {"task_5": " "},
+
+            {"task_6": " "},
+
+            {"task_7": " "},
+
+            {"task_8": " "},
+
+            {"task_9": " "},
+
+            {"task_10": " "}
+        ]
+
+        
+
+    },
+
+    "tradingPlans" : {  
+
+    
+        "trendStrategy": {
+        
+            "entryPhase": [
+
+                {"step_1": " "},
+
+                {"step_2": " "},
+
+                {"step_3": " "},
+
+                {"step_4": " "},
+
+                {"step_5": " "},
+
+                {"step_6": " "},
+
+                {"step_7": " "},
+
+                {"step_8": " "},
+
+                {"step_9": " "},
+
+                {"step_10": " "}
+
+            ],
+
+            "managePhase": [
+
+                {"step_1": " "},
+
+                {"step_2": " "},
+
+                {"step_3": " "},
+
+                {"step_4": " "},
+
+                {"step_5": " "},
+
+                {"step_6": " "},
+
+                {"step_7": " "},
+
+                {"step_8": " "},
+
+                {"step_9": " "},
+
+                {"step_10": " "}
+
+            ],
+
+            "exitPhase": [
+
+                {"step_1": " "},
+
+                {"step_2": " "},
+
+                {"step_3": " "},
+
+                {"step_4": " "},
+
+                {"step_5": " "},
+
+                {"step_6": " "},
+
+                {"step_7": " "},
+
+                {"step_8": " "},
+
+                {"step_9": " "},
+
+                {"step_10": " "}
+
+            ]
+
+        }
+
+    }
+
+}
