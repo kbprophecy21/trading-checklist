@@ -1,165 +1,140 @@
 {
+  "weeklyAnalysis": {
+    "fundamentalAnalysis": [
+      {
+        "task_1": "Check economic calendar for the week"
+      },
 
-    "weeklyAnalysis" : {
+      {
+        "task_2": "Take notes of any major economic data releases in that week"
+      },
 
-        "fundamentalAnalysis" : [
+      {
+        "task_3": "Check group chats for weekly briefing"
+      },
 
-            {"task_1": " "},
+      {
+        "task_4": "Identify risk sentiment in the market"
+      }
+    ],
 
-            {"task_2": " "},
+    "technicalAnalysis": [
+      {
+        "task_1": "Check daily time-frame to identify potential trends"
+      },
 
-            {"task_3": " "},
+      {
+        "task_2": "Check 4-HR time-frame to identify potential trends"
+      },
 
-            {"task_4": " "},
+      {
+        "task_3": "Identify key support and resistance levels on Daily & 4-HR time-frames"
+      },
 
-            {"task_5": " "}
-        ],
+      {
+        "task_4": "Review the previous week's analysis and trades"
+      },
 
-        "technicalAnalysis": [
-            
-            {"task_1": " "},
+      {
+        "task_5": "Identify potential trade setups for the week"
+      }
+    ]
+  },
+  "dailyAnalysis": {
+    "fundamentalAnalysis": [
+      { "task_1": "Check economic calendar for the day" },
 
-            {"task_2": " "},
+      {
+        "task_2": "Take notes of any major economic data releases in that day"
+      },
 
-            {"task_3": " "},
+      { "task_3": "Check group chats for daily briefing" },
 
-            {"task_4": " "},
+      { "task_4": "Identify risk sentiment in the market" }
+    ],
 
-            {"task_5": " "},
+    "technicalAnalysis": [
+      { "task_1": " " },
 
-            {"task_6": " "},
+      { "task_2": " " },
 
-            {"task_7": " "},
+      { "task_3": " " },
 
-            {"task_8": " "},
+      { "task_4": " " },
 
-            {"task_9": " "},
+      { "task_5": " " },
 
-            {"task_10": " "}
-        ]
+      { "task_6": " " },
 
-    },
-    "dailyAnalysis": {
+      { "task_7": " " },
 
-        "fundamentalAnalysis" : [
+      { "task_8": " " },
 
-            {"task_1": " "},
+      { "task_9": " " },
 
-            {"task_2": " "},
+      { "task_10": " " }
+    ]
+  },
 
-            {"task_3": " "},
+  "tradingPlan": {
+    "trend_continuation_strategy": {
+      "entryPhase": [
+        {
+          "step_1": "Wait for a pullback to the trendline"
+        },
 
-            {"task_4": " "},
+        {
+          "step_2": "Wait for a candlestick pattern to form; engulfing, pinbars, or break-and-retest patterns"
+        },
 
-            {"task_5": " "}
-        ],
+        {
+          "step_3": "Check for confluence with other technical indicators"
+        },
 
-        "technicalAnalysis": [
+        {
+          "step_4": "Determine if this a low-confidence or high-confidence setup{e.g., low-confidence setups are when the trend/ S&R levels are weak, and high-confidence setups are when the trend/S&R are strong}"
+        },
 
-            {"task_1": " "},
+        {
+          "step_5": "Depending on the confidence level, determine the position size and risk management{e.g., low-confidence setups should range from 0.25% to 0.50% risk per trade, and high-confidence setups should range from 0.50% to 1% risk per trade. never exceed 1% risk on any trade}"
+        },
 
-            {"task_2": " "},
-
-            {"task_3": " "},
-
-            {"task_4": " "},
-
-            {"task_5": " "},
-
-            {"task_6": " "},
-
-            {"task_7": " "},
-
-            {"task_8": " "},
-
-            {"task_9": " "},
-
-            {"task_10": " "}
-        ]
-
-        
-
-    },
-
-    "tradingPlans" : {  
-
-    
-        "trendStrategy": {
-        
-            "entryPhase": [
-
-                {"step_1": " "},
-
-                {"step_2": " "},
-
-                {"step_3": " "},
-
-                {"step_4": " "},
-
-                {"step_5": " "},
-
-                {"step_6": " "},
-
-                {"step_7": " "},
-
-                {"step_8": " "},
-
-                {"step_9": " "},
-
-                {"step_10": " "}
-
-            ],
-
-            "managePhase": [
-
-                {"step_1": " "},
-
-                {"step_2": " "},
-
-                {"step_3": " "},
-
-                {"step_4": " "},
-
-                {"step_5": " "},
-
-                {"step_6": " "},
-
-                {"step_7": " "},
-
-                {"step_8": " "},
-
-                {"step_9": " "},
-
-                {"step_10": " "}
-
-            ],
-
-            "exitPhase": [
-
-                {"step_1": " "},
-
-                {"step_2": " "},
-
-                {"step_3": " "},
-
-                {"step_4": " "},
-
-                {"step_5": " "},
-
-                {"step_6": " "},
-
-                {"step_7": " "},
-
-                {"step_8": " "},
-
-                {"step_9": " "},
-
-                {"step_10": " "}
-
-            ]
-
+        {
+          "step_6": "Enter the trade after all technical indicators are confirmed"
+        },
+
+        {
+          "step_7": "Place stop-loss at a logical level(e.g., below the recent swing high/low or key structure levels)"
+        },
+
+        {
+          "step_8": "Place take-profit at a logical level(e.g., 1:2 risk-reward ratio, or the next resistance/support levels )"
         }
+      ],
 
+      "managePhase": [
+        { "step_1": "Set alarm on saftey lines" },
+
+        {
+          "step_2": "Stay up-to-date with all economic data that could potentialy move against you."
+        },
+
+        {
+          "step_3": " if price has moved in your favor; Trail stop-loss to lock in profit. "
+        }
+      ],
+
+      "exitPhase": [
+        {
+          "step_1": "Exit if price action invalidates your setup( e.g., a break fails and reenters the range, breaks trend/S&R structure or closes below saftey line.) "
+        },
+
+        {
+          "step_2": "Let trade hit stop-loss or take-profit unless the market structure changes."
+        },
+
+        { "step_3": "Make sure to journal your trade" }
+      ]
     }
-
+  }
 }
